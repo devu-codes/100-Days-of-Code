@@ -4,4 +4,4 @@ site like **Leetcode, Hackerrank, Codechef, Codeforces**. (*This is not related 
 Language can be Cplusplus or Python, it depends on mindset. But Since I'm a data scientist, therefore it'll mostly be python.
 
 ### Day 1: Computing sqrt of number using binary search approach with precision. [Leetcode-link](https://leetcode.com/problems/sqrtx/)
-### Day 2: Computing fibonacci numbers using dynamic programming i python. [Leetcode-link](https://leetcode.com/problems/fibonacci-number/)
+### Day 2: Computing fibonacci numbers using dynamic programming in python. [Leetcode-link](https://leetcode.com/problems/fibonacci-number/)
